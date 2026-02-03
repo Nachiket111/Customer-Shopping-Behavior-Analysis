@@ -6,6 +6,9 @@ The journey starts with raw data, moves through Python analysis, connects to a S
 
 Think of this project as how insights would actually be delivered inside a company — not just charts, but **meaningful business understanding**.
 
+[Live Project Demo](https://nachiket111.github.io/Customer-Shopping-Behavior-Analysis/)
+
+
 ---
 
 ## Why This Project Matters
