@@ -135,7 +135,7 @@ Finally, I created an **interactive Customer Behavior Dashboard** in Power BI.
 
 ## Key Insights & Expert Observations
 
-
+<img src="insightsSummary.png" width="600"/>
 
 ### 1. Subscription Adoption Is Low
 
