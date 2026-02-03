@@ -135,7 +135,7 @@ Finally, I created an **interactive Customer Behavior Dashboard** in Power BI.
 
 ## Key Insights & Expert Observations
 
-<img src="insightsSummary.png" width="600"/>
+<img src="insightsSummary.png" width="800"/>
 
 ### 1. Subscription Adoption Is Low
 
@@ -150,6 +150,8 @@ Finally, I created an **interactive Customer Behavior Dashboard** in Power BI.
 
 ### 2. Clothing Is the Strongest Category
 
+<img src="Prod_insights.png" width="800"/>
+
 * Clothing leads in both **revenue and number of sales**
 
  *Insight:* The business heavily depends on one category.
@@ -159,6 +161,8 @@ Finally, I created an **interactive Customer Behavior Dashboard** in Power BI.
 ---
 
 ### 3. Young Adults Drive the Business
+
+<img src="Cust_insights.png" width="800"/>
 
 * Young Adults generate the **highest revenue and sales volume**
 
