@@ -192,6 +192,6 @@ This project demonstrates my ability to:
 * Build professional dashboards in Power BI
 * Communicate insights clearly and logically
 
-It reflects how a **real data analyst thinks and works**, not just how tools are used.
+This reflects how a **real data analyst thinks and works**, not just how tools are used.
 
-
+Author: Nachiket Patil
