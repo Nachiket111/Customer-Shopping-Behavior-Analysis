@@ -25,23 +25,10 @@ This project answers those questions in a clean, visual, and decision‑focused 
 
 ### Programming & Analysis
 
-* **Python** – data cleaning, preprocessing, and exploration
+* **Python** (pandas, numpy, matplotlib, seaborn)  – data cleaning, preprocessing, and exploration
 * **Jupyter Notebook** – step‑by‑step analysis documentation
-
-### Database
-
 * **MySQL** – storing cleaned data and answering business questions using SQL
-
-### Visualization
-
 * **Power BI** – building an interactive dashboard for stakeholders
-
-### Python Libraries
-
-* pandas
-* numpy
-* matplotlib
-* seaborn
 
 ---
 
@@ -147,6 +134,8 @@ Finally, I created an **interactive Customer Behavior Dashboard** in Power BI.
 ---
 
 ## Key Insights & Expert Observations
+
+
 
 ### 1. Subscription Adoption Is Low
 
